@@ -1,0 +1,8 @@
+[package]
+name = "zsh-treesitter-highlighting"
+version = "0.1.0"
+edition = "2021"
+
+[dependencies]
+tree-sitter-highlight = "0.22.0"
+tree-sitter-bash="0.21"
